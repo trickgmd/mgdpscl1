@@ -1,11 +1,11 @@
 {
-    "id": ,
+    "id": 1,
     "name": "None",
-    "author": "",
-    "creators": [""],
-    "verifier": "",
+    "author": "None",
+    "creators": [],
+    "verifier": "None",
     "verification": "",
-    "percentToQualify": "",
+    "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
     ]
